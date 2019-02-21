@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+@media screen and ( min-width : 572px ) and (max-width : 1047px ) {
+.desktop {
+	display: none;
+}
+.body {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 8px;
+	margin: auto;
+}
+.scheme {
+	width: 240px;
+	min-height: 300px;
+	padding: 6px 12px;
+	margin: 0 8px 16px;
+}
+}
+
+@media (min-width:572px) and (max-width:725px) {
+.smalltablet {
+	display: inline;
+}
+}

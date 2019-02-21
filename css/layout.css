@@ -1,0 +1,49 @@
+@charset "utf-8";
+header {
+	padding: 10px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+header h1 {
+	text-align: center;
+}
+header section {
+	max-width: 550px;
+}
+header + h2 {
+	margin-bottom: 16px;
+}
+body {
+	text-align: center;
+}
+a, img {
+	margin: 0;
+	padding: 0;
+}
+nav {
+	height: 3em
+}
+footer {
+	margin-top: 100px;
+}
+.home {
+	float: left;
+	margin-top: 7px;
+	margin-left: 14px;
+}
+.menu {
+	width: 24px;
+	height: 24px;
+	border-radius: 0px;
+	float: right;
+	margin-top: 11px;
+	margin-right: 14px;
+}
+.smalltablet {
+	display: none;
+}
+.style {
+	margin-top: 40px;
+	padding-bottom: 10px;
+	width: 85%;
+}

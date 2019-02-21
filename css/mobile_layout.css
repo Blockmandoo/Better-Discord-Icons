@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@media (max-width : 571px ) {
+.desktop {
+	display: none;
+}
+.body > p > a:last-child {
+	display: none;
+}
+.style img {
+	width: 26vw;
+	height: 26vw;
+}
+.scheme {
+	text-align: left;
+	margin: 0 16px 16px;
+	padding: 6px 12px;
+	height: 136px;
+	clear: left;
+}
+.scheme * {
+	display: block;
+}
+.scheme img {
+	float: left;
+	margin-right: 10px;
+}
+}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@media (min-width : 1048px ) {
+.mobile {
+	display: none;
+}
+header {
+	max-width: 750px;
+	border-radius: 0 0 10px 10px
+}
+}
