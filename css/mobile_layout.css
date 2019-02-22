@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@media (max-width : 571px ) {
+@media (max-width : 6in ) {
 .desktop {
 	display: none;
 }
