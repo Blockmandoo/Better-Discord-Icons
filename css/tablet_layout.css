@@ -18,6 +18,7 @@
 }
 }
 
+/*@media (min-width:572px) and (max-width:725px) {*/
 @media (min-width:572px) and (max-width:725px) {
 .smalltablet {
 	display: inline;
