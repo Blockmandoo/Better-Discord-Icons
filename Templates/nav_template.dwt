@@ -28,7 +28,16 @@
 		<a href="../index">
 		<h2 class="home">Home</h2>
 		</a>
-		<a><img src="../assets/Menu-Icon.svg" class="menu" alt="Menu"></a>
+		<div class="menu dropdown">
+			<img src="../assets/Menu-Icon.svg" class="dropbtn" alt="Menu">
+			<div class="dropdown-content">
+				<a href="../discord">Discord</a>
+				<a href="../games">Games</a>
+				<a href="../letters">Letters</a>
+				<a href="../defaults">Defaults</a>
+				<a href="../other">Others</a>
+			</div>
+		</div>
 	</nav>
 	<header>
 		<h1>Better Discord Icons</h1>

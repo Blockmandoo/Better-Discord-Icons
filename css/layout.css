@@ -16,12 +16,8 @@ header + h2 {
 body {
 	text-align: center;
 }
-a, img {
-	margin: 0;
-	padding: 0;
-}
 nav {
-	height: 3em
+	height: 3em;
 }
 footer {
 	margin-top: 100px;
@@ -36,8 +32,9 @@ footer {
 	height: 24px;
 	border-radius: 0px;
 	float: right;
-	margin-top: 11px;
+	margin-top: 1px;
 	margin-right: 14px;
+	padding: 11px
 }
 .smalltablet {
 	display: none;
@@ -49,4 +46,29 @@ footer {
 }
 .body a {
 	margin: auto;
+}
+/*Dropdown stuff*/
+.dropdown {
+	float: right;
+}
+.dropdown .dropbtn {
+	margin: 0;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	top: 2.2em;
+	right: 0;
+	z-index: 1;
+	min-width: 80px;
+	font-size: 1.35em;
+}
+.dropdown-content a {
+	float: none;
+	display: block;
+	text-align: center;
+	padding: 2px 16px;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
 }

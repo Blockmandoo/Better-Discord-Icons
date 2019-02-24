@@ -21,9 +21,9 @@ header {
 	padding: 6px 12px;
 	margin: 0 8px 16px;
 }
-	/*TEMPORARY - DELETE ME*/
+/*TEMPORARY - DELETE ME*/
 .signifier::before {
 	content: "Desktop"
 }
-	/*TEMPORARY - DELETE ME*/
+/*TEMPORARY - DELETE ME*/
 }
