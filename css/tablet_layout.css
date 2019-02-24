@@ -20,7 +20,8 @@
 }
 /*TEMPORARY - DELETE ME*/
 .signifier::before {
-	content: "Tablet"
+	content: "Tablet";
+	color: hsla(0,0%,100%,0.20);
 }
 /*TEMPORARY - DELETE ME*/
 }

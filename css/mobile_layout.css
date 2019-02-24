@@ -27,7 +27,8 @@
 }
 /*TEMPORARY - DELETE ME*/
 .signifier::before {
-	content: "Mobile"
+	content: "Mobile";
+	color: hsla(0,0%,100%,0.20);
 }
 /*TEMPORARY - DELETE ME*/
 }

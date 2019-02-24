@@ -23,7 +23,8 @@ header {
 }
 /*TEMPORARY - DELETE ME*/
 .signifier::before {
-	content: "Desktop"
+	content: "Desktop";
+	color: hsla(0,0%,100%,0.20);
 }
 /*TEMPORARY - DELETE ME*/
 }
