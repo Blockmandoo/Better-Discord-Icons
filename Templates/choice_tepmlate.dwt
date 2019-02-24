@@ -1,0 +1,298 @@
+<!doctype html>
+<html>
+<head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Better Discord Icons</title>
+	<meta property="og:title" content="Better Discord Icons"/>
+	<!-- TemplateEndEditable -->
+	<meta property="og:type" content="article"/>
+	<meta property="og:image:type" content="image/png"/>
+	<meta charset="utf-8"/>
+	<link href="../css/reset.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/style.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/layout.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/desktop_layout.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/tablet_layout.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/mobile_layout.css" type="text/css" rel="stylesheet"/>
+	<link href="../css/icon_layout.css" type="text/css" rel="stylesheet"/>
+	<!-- TemplateBeginEditable name="head" -->
+	<meta name="Keywords" content="Better Discord Icons, Better Discord, Better, Discord, Icons, Video games, Video, Games, Blockhead, Nathanael, Letters/Numbers, Letters, Numbers, Default Profile, Default, Profile, Picture, Pic, Better Profile, Better Default">
+	<meta property="og:description" content="A free website for those who want a discord profile picture that looks better than the default."/>
+	<meta property="og:image:url" content="/assets/Other/BetterDiscord/Gradient-Peridot.png"/>
+	<link href="../assets/Other/BetterDiscord/Gradient-Peridot.png" rel="icon"/>
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<nav>
+		<a href="../index">
+		<h2 class="home">Home</h2>
+		</a>
+		<a><img src="../assets/Menu-Icon.svg" class="menu" alt="Menu"></a>
+	</nav>
+	<header>
+		<section class="desktop">
+			<h1>Better Discord Icons</h1>
+			<p>
+				Please use these instead of any <em>default</em> profile picture given to you by discord, on the house!<br>
+				Just click on the icon you want to download, and then follow these steps:
+			</p>
+			<ol>
+				<li>Go to user settings on the bottom left of Discord.</li>
+				<li>Click the edit button next to you profile.</li>
+				<li>Click on your profile picture to <em>change avatar</em>.</li>
+				<li>Find where you saved your new icon.</li>
+				<li>Click save and you're done!</li>
+			</ol>
+		</section>
+		<section class="mobile">
+			<h1>Better Discord Icons</h1>
+			<p>
+				Please use these instead of any <em>default</em> profile picture given to you by discord.<br>
+				Just tap on the icon you want, and then follow these steps:
+			</p>
+			<ol>
+				<li>Go to your discord server section of your device.</li>
+				<li>Tap on the settings gear near the bottom.</li>
+				<li>Go to <em>My Account</em>.</li>
+				<li>Tap on your picture.</li>
+				<li>Find your new icon.</li>
+				<li>Tap the save button on the bottom right and you're done!</li>
+			</ol>
+		</section>
+	</header>
+	<section class="body iconbody">
+		<!--Gradients-->
+		<h2 class="style" id="Gradients">Gradients</h2>
+		<!-- TemplateBeginEditable name="regionGradient" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Ruby.png" alt="PLACEHOLDNAME-Gradient-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Jasper.png" alt="PLACEHOLDNAME-Gradient-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Topaz.png" alt="PLACEHOLDNAME-Gradient-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Peridot.png" alt="PLACEHOLDNAME-Gradient-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Aquamarine.png" alt="PLACEHOLDNAME-Gradient-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Sapphire.png" alt="PLACEHOLDNAME-Gradient-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Amethyst.png" alt="PLACEHOLDNAME-Gradient-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Rose Quartz.png" alt="PLACEHOLDNAME-Gradient-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Hematite.png" alt="PLACEHOLDNAME-Gradient-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Pearl.png" alt="PLACEHOLDNAME-Gradient-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Blasts-->
+		<h2 class="style" id="Blasts">Blasts</h2>
+		<!-- TemplateBeginEditable name="regionBlasts" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Ruby.png" alt="PLACEHOLDNAME-Blast-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Jasper.png" alt="PLACEHOLDNAME-Blast-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Topaz.png" alt="PLACEHOLDNAME-Blast-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Peridot.png" alt="PLACEHOLDNAME-Blast-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Aquamarine.png" alt="PLACEHOLDNAME-Blast-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Sapphire.png" alt="PLACEHOLDNAME-Blast-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Amethyst.png" alt="PLACEHOLDNAME-Blast-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Rose Quartz.png" alt="PLACEHOLDNAME-Blast-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Hematite.png" alt="PLACEHOLDNAME-Blast-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Pearl.png" alt="PLACEHOLDNAME-Blast-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Lines-->
+		<h2 class="style" id="Lines">Lines</h2>
+		<!-- TemplateBeginEditable name="regionLines" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Ruby.png" alt="PLACEHOLDNAME-Lines-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Jasper.png" alt="PLACEHOLDNAME-Lines-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Topaz.png" alt="PLACEHOLDNAME-Lines-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Peridot.png" alt="PLACEHOLDNAME-Lines-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Aquamarine.png" alt="PLACEHOLDNAME-Lines-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Sapphire.png" alt="PLACEHOLDNAME-Lines-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Amethyst.png" alt="PLACEHOLDNAME-Lines-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Rose Quartz.png" alt="PLACEHOLDNAME-Lines-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Hematite.png" alt="PLACEHOLDNAME-Lines-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Pearl.png" alt="PLACEHOLDNAME-Lines-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Stairs-->
+		<h2 class="style" id="Stairs">Stairs</h2>
+		<!-- TemplateBeginEditable name="regionStairs" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Ruby.png" alt="PLACEHOLDNAME-Stairs-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Jasper.png" alt="PLACEHOLDNAME-Stairs-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Topaz.png" alt="PLACEHOLDNAME-Stairs-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Peridot.png" alt="PLACEHOLDNAME-Stairs-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Aquamarine.png" alt="PLACEHOLDNAME-Stairs-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Sapphire.png" alt="PLACEHOLDNAME-Stairs-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Amethyst.png" alt="PLACEHOLDNAME-Stairs-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Rose Quartz.png" alt="PLACEHOLDNAME-Stairs-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Hematite.png" alt="PLACEHOLDNAME-Stairs-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Pearl.png" alt="PLACEHOLDNAME-Stairs-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Checkerboards-->
+		<h2 class="style" id="Checkerboards">Checkerboards</h2>
+		<!-- TemplateBeginEditable name="regionCheckerboards" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Ruby.png" alt="PLACEHOLDNAME-Checkerboard-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Jasper.png" alt="PLACEHOLDNAME-Checkerboard-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Topaz.png" alt="PLACEHOLDNAME-Checkerboard-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Peridot.png" alt="PLACEHOLDNAME-Checkerboard-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Aquamarine.png" alt="PLACEHOLDNAME-Checkerboard-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Sapphire.png" alt="PLACEHOLDNAME-Checkerboard-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Amethyst.png" alt="PLACEHOLDNAME-Checkerboard-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Rose Quartz.png" alt="PLACEHOLDNAME-Checkerboard-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Hematite.png" alt="PLACEHOLDNAME-Checkerboard-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Pearl.png" alt="PLACEHOLDNAME-Checkerboard-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Tessellation-->
+		<h2 class="style" id="Tessellations">Tessellations</h2>
+		<!-- TemplateBeginEditable name="regionTessellations" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Ruby.png" alt="PLACEHOLDNAME-Tessellation-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Jasper.png" alt="PLACEHOLDNAME-Tessellation-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Topaz.png" alt="PLACEHOLDNAME-Tessellation-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Peridot.png" alt="PLACEHOLDNAME-Tessellation-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Aquamarine.png" alt="PLACEHOLDNAME-Tessellation-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Sapphire.png" alt="PLACEHOLDNAME-Tessellation-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Amethyst.png" alt="PLACEHOLDNAME-Tessellation-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Rose Quartz.png" alt="PLACEHOLDNAME-Tessellation-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Hematite.png" alt="PLACEHOLDNAME-Tessellation-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Pearl.png" alt="PLACEHOLDNAME-Tessellation-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Weave-->
+		<h2 class="style" id="Weaves">Weaves</h2>
+		<!-- TemplateBeginEditable name="regionWeaves" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Ruby.png" alt="PLACEHOLDNAME-Weave-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Jasper.png" alt="PLACEHOLDNAME-Weave-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Topaz.png" alt="PLACEHOLDNAME-Weave-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Peridot.png" alt="PLACEHOLDNAME-Weave-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Aquamarine.png" alt="PLACEHOLDNAME-Weave-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Sapphire.png" alt="PLACEHOLDNAME-Weave-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Amethyst.png" alt="PLACEHOLDNAME-Weave-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Rose Quartz.png" alt="PLACEHOLDNAME-Weave-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Hematite.png" alt="PLACEHOLDNAME-Weave-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Pearl.png" alt="PLACEHOLDNAME-Weave-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Dots-->
+		<h2 class="style" id="Dots">Dots</h2>
+		<!-- TemplateBeginEditable name="regionDots" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Ruby.png" alt="PLACEHOLDNAME-Dots-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Jasper.png" alt="PLACEHOLDNAME-Dots-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Topaz.png" alt="PLACEHOLDNAME-Dots-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Peridot.png" alt="PLACEHOLDNAME-Dots-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Aquamarine.png" alt="PLACEHOLDNAME-Dots-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Sapphire.png" alt="PLACEHOLDNAME-Dots-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Amethyst.png" alt="PLACEHOLDNAME-Dots-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Rose Quartz.png" alt="PLACEHOLDNAME-Dots-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Hematite.png" alt="PLACEHOLDNAME-Dots-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Pearl.png" alt="PLACEHOLDNAME-Dots-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Hearts-->
+		<h2 class="style" id="Hearts">Hearts</h2>
+		<!-- TemplateBeginEditable name="regionHearts" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Ruby.png" alt="PLACEHOLDNAME-Hearts-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Jasper.png" alt="PLACEHOLDNAME-Hearts-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Topaz.png" alt="PLACEHOLDNAME-Hearts-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Peridot.png" alt="PLACEHOLDNAME-Hearts-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Aquamarine.png" alt="PLACEHOLDNAME-Hearts-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Sapphire.png" alt="PLACEHOLDNAME-Hearts-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Amethyst.png" alt="PLACEHOLDNAME-Hearts-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Rose Quartz.png" alt="PLACEHOLDNAME-Hearts-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Hematite.png" alt="PLACEHOLDNAME-Hearts-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Pearl.png" alt="PLACEHOLDNAME-Hearts-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Dust-->
+		<h2 class="style" id="Dusts">Dusts</h2>
+		<!-- TemplateBeginEditable name="regionDust" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Ruby.png" alt="PLACEHOLDNAME-Dust-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Jasper.png" alt="PLACEHOLDNAME-Dust-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Topaz.png" alt="PLACEHOLDNAME-Dust-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Peridot.png" alt="PLACEHOLDNAME-Dust-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Aquamarine.png" alt="PLACEHOLDNAME-Dust-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Sapphire.png" alt="PLACEHOLDNAME-Dust-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Amethyst.png" alt="PLACEHOLDNAME-Dust-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Rose Quartz.png" alt="PLACEHOLDNAME-Dust-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Hematite.png" alt="PLACEHOLDNAME-Dust-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Pearl.png" alt="PLACEHOLDNAME-Dust-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Clouds-->
+		<h2 class="style" id="Clouds">Clouds</h2>
+		<!-- TemplateBeginEditable name="regionClouds" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Ruby.png" alt="PLACEHOLDNAME-Clouds-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Jasper.png" alt="PLACEHOLDNAME-Clouds-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Topaz.png" alt="PLACEHOLDNAME-Clouds-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Peridot.png" alt="PLACEHOLDNAME-Clouds-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Aquamarine.png" alt="PLACEHOLDNAME-Clouds-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Sapphire.png" alt="PLACEHOLDNAME-Clouds-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Amethyst.png" alt="PLACEHOLDNAME-Clouds-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Rose Quartz.png" alt="PLACEHOLDNAME-Clouds-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Hematite.png" alt="PLACEHOLDNAME-Clouds-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Pearl.png" alt="PLACEHOLDNAME-Clouds-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Ocean-->
+		<h2 class="style" id="Oceans">Oceans</h2>
+		<!-- TemplateBeginEditable name="regionOceans" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Ruby.png" alt="PLACEHOLDNAME-Ocean-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Jasper.png" alt="PLACEHOLDNAME-Ocean-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Topaz.png" alt="PLACEHOLDNAME-Ocean-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Peridot.png" alt="PLACEHOLDNAME-Ocean-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Aquamarine.png" alt="PLACEHOLDNAME-Ocean-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Sapphire.png" alt="PLACEHOLDNAME-Ocean-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Amethyst.png" alt="PLACEHOLDNAME-Ocean-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Rose Quartz.png" alt="PLACEHOLDNAME-Ocean-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Hematite.png" alt="PLACEHOLDNAME-Ocean-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Pearl.png" alt="PLACEHOLDNAME-Ocean-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+		<!--Tribal-->
+		<h2 class="style" id="Tribals">Tribals</h2>
+		<!-- TemplateBeginEditable name="regionTribal" -->
+		<p>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Ruby.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Ruby.png" alt="PLACEHOLDNAME-Tribal-Ruby"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Jasper.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Jasper.png" alt="PLACEHOLDNAME-Tribal-Jasper"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Topaz.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Topaz.png" alt="PLACEHOLDNAME-Tribal-Topaz"/></a>
+			<br class="smalltablet">
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Peridot.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Peridot.png" alt="PLACEHOLDNAME-Tribal-Peridot"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Aquamarine.png" alt="PLACEHOLDNAME-Tribal-Aquamarine"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Sapphire.png" alt="PLACEHOLDNAME-Tribal-Sapphire"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Amethyst.png" alt="PLACEHOLDNAME-Tribal-Amethyst"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Rose Quartz.png" alt="PLACEHOLDNAME-Tribal-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Hematite.png" alt="PLACEHOLDNAME-Tribal-Hematite"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Pearl.png" alt="PLACEHOLDNAME-Tribal-Pearl"/></a>
+		</p>
+		<!-- TemplateEndEditable -->
+	</section>
+	<footer class="mobile">
+		<a> ^Return to top^ </a>
+	</footer>
+	<footer class="desktop">
+		<p>
+			All color schemes designed by Nathanael "Blockhead" J.<br>
+			Logo owned by Discord©
+		</p>
+	</footer>
+	<!--Author is Nathanael "Blockhead" Jacobsma-->
+</body>
+</html>

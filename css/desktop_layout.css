@@ -1,11 +1,29 @@
 @charset "utf-8";
 
 @media (min-width : 11in ) {
-.mobile {
-	display: none;
-}
 header {
 	max-width: 750px;
 	border-radius: 0 0 10px 10px
 }
+.mobile {
+	display: none;
+}
+.body {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 8px;
+	margin: auto;
+	width: 90%
+}
+.scheme {
+	width: 240px;
+	min-height: 300px;
+	padding: 6px 12px;
+	margin: 0 8px 16px;
+}
+	/*TEMPORARY - DELETE ME*/
+.signifier::before {
+	content: "Desktop"
+}
+	/*TEMPORARY - DELETE ME*/
 }

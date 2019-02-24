@@ -47,3 +47,6 @@ footer {
 	padding-bottom: 10px;
 	width: 85%;
 }
+.body a {
+	margin: auto;
+}

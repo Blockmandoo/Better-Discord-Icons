@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /*@media screen and ( min-width : 572px ) and (max-width : 1047px ) {*/
-@media screen and (min-width: 6in) and (max-width: 11in) {
+@media (min-width: 6in) and (max-width: 11in) {
 .desktop {
 	display: none;
 }
@@ -10,6 +10,7 @@
 	flex-wrap: wrap;
 	padding: 8px;
 	margin: auto;
+	max-width: 850px;
 }
 .scheme {
 	width: 240px;
@@ -17,11 +18,19 @@
 	padding: 6px 12px;
 	margin: 0 8px 16px;
 }
+	/*TEMPORARY - DELETE ME*/
+.signifier::before {
+	content: "Tablet"
+}
+	/*TEMPORARY - DELETE ME*/
 }
 
 /*@media (min-width:572px) and (max-width:725px) {*/
 @media (min-width: 6in) and (max-width: 7.6in) {
 .smalltablet {
 	display: inline;
+}
+.scheme {
+	width: 220px;
 }
 }
