@@ -22,6 +22,9 @@ nav {
 footer {
 	margin-top: 100px;
 }
+img {
+	display: inline
+}
 .home {
 	float: left;
 	margin-top: 7px;
