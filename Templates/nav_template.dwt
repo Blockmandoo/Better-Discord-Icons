@@ -38,7 +38,7 @@
 				<a href="../other">Others</a>
 			</div>
 		</div>
-		<h3 class="signifier"></h3>
+		<h3 class="signifier">&nbsp;</h3>
 	</nav>
 	<header>
 		<h1>Better Discord Icons</h1>
@@ -51,46 +51,37 @@
 	<h2>Pick a catagory</h2>
 	<!-- TemplateBeginEditable name="body" -->
 	<section class="body">
-		<a href="../discord">
+		<a href="../">
 		<div class="scheme">
-			<img src="../assets/Discord/Gradient-Peridot.png" alt="">
-			<h2>Discord</h2>
-			<p>
-				Discord is a great social platform to help with comunication. Use these icons if you either like discord or want to get a more personal icon without changing much.
-			</p>
-		</div>
-		</a>
-		<a href="../games">
-		<div class="scheme">
-			<img src="../assets/Other/VideoGame/Gradient-Peridot.png" alt="">
-			<h2>Video Games</h2>
+			<img src="../assets/placeholder128.png" alt="">
+			<h2>Option 1</h2>
 			<p>
 				Flavor Text
 			</p>
 		</div>
 		</a>
-		<a href="../letters">
+		<a href="../">
 		<div class="scheme">
-			<img src="../assets/Letters/A/Gradient-Peridot.png" alt="">
-			<h2>Letters/Numbers</h2>
+			<img src="../assets/placeholder128.png" alt="">
+			<h2>Option 2</h2>
 			<p>
 				Flavor Text
 			</p>
 		</div>
 		</a>
-		<a href="../defaults">
+		<a href="../">
 		<div class="scheme">
-			<img src="../assets/Defaults/Instagram/Gradient-Peridot.png" alt="">
-			<h2>Defaults Profile Pictures</h2>
+			<img src="../assets/placeholder128.png" alt="">
+			<h2>Option 3</h2>
 			<p>
 				Flavor Text
 			</p>
 		</div>
 		</a>
-		<a href="../other">
+		<a href="../">
 		<div class="scheme">
-			<img src="../assets/Other/QMark/Gradient-Peridot.png" alt="">
-			<h2>Others</h2>
+			<img src="../assets/placeholder128.png" alt="">
+			<h2>Option 4</h2>
 			<p>
 				Flavor Text
 			</p>

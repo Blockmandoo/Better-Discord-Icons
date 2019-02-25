@@ -26,7 +26,7 @@
 	margin-right: 10px;
 }
 /*TEMPORARY - DELETE ME*/
-.signifier::before {
+.signifier::before, .signifier {
 	content: "Mobile";
 	color: hsla(0,0%,100%,0.20);
 }

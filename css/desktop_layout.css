@@ -22,7 +22,7 @@ header {
 	margin: 0 8px 16px;
 }
 /*TEMPORARY - DELETE ME*/
-.signifier::before {
+.signifier::before, .signifier {
 	content: "Desktop";
 	color: hsla(0,0%,100%,0.20);
 }

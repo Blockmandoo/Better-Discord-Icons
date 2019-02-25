@@ -38,7 +38,7 @@
 				<a href="../other">Others</a>
 			</div>
 		</div>
-		<h3 class="signifier"></h3>
+		<h3 class="signifier">&nbsp;</h3>
 	</nav>
 	<header>
 		<section class="desktop">
@@ -84,7 +84,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Gradient-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Aquamarine.png" alt="PLACEHOLDNAME-Gradient-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Gradient-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Sapphire.png" alt="PLACEHOLDNAME-Gradient-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Gradient-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Amethyst.png" alt="PLACEHOLDNAME-Gradient-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Gradient-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Rose Quartz.png" alt="PLACEHOLDNAME-Gradient-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Gradient-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Rose-Quartz.png" alt="PLACEHOLDNAME-Gradient-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Gradient-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Hematite.png" alt="PLACEHOLDNAME-Gradient-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Gradient-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Gradient-Pearl.png" alt="PLACEHOLDNAME-Gradient-Pearl"/></a>
 		</p>
@@ -101,7 +101,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Blast-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Aquamarine.png" alt="PLACEHOLDNAME-Blast-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Blast-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Sapphire.png" alt="PLACEHOLDNAME-Blast-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Blast-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Amethyst.png" alt="PLACEHOLDNAME-Blast-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Blast-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Rose Quartz.png" alt="PLACEHOLDNAME-Blast-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Blast-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Rose-Quartz.png" alt="PLACEHOLDNAME-Blast-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Blast-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Hematite.png" alt="PLACEHOLDNAME-Blast-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Blast-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Blast-Pearl.png" alt="PLACEHOLDNAME-Blast-Pearl"/></a>
 		</p>
@@ -118,7 +118,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Lines-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Aquamarine.png" alt="PLACEHOLDNAME-Lines-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Lines-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Sapphire.png" alt="PLACEHOLDNAME-Lines-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Lines-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Amethyst.png" alt="PLACEHOLDNAME-Lines-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Lines-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Rose Quartz.png" alt="PLACEHOLDNAME-Lines-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Lines-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Rose-Quartz.png" alt="PLACEHOLDNAME-Lines-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Lines-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Hematite.png" alt="PLACEHOLDNAME-Lines-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Lines-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Lines-Pearl.png" alt="PLACEHOLDNAME-Lines-Pearl"/></a>
 		</p>
@@ -135,7 +135,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Stairs-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Aquamarine.png" alt="PLACEHOLDNAME-Stairs-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Stairs-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Sapphire.png" alt="PLACEHOLDNAME-Stairs-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Stairs-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Amethyst.png" alt="PLACEHOLDNAME-Stairs-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Stairs-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Rose Quartz.png" alt="PLACEHOLDNAME-Stairs-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Stairs-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Rose-Quartz.png" alt="PLACEHOLDNAME-Stairs-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Stairs-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Hematite.png" alt="PLACEHOLDNAME-Stairs-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Stairs-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Stairs-Pearl.png" alt="PLACEHOLDNAME-Stairs-Pearl"/></a>
 		</p>
@@ -152,7 +152,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Aquamarine.png" alt="PLACEHOLDNAME-Checkerboard-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Sapphire.png" alt="PLACEHOLDNAME-Checkerboard-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Amethyst.png" alt="PLACEHOLDNAME-Checkerboard-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Rose Quartz.png" alt="PLACEHOLDNAME-Checkerboard-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Rose-Quartz.png" alt="PLACEHOLDNAME-Checkerboard-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Hematite.png" alt="PLACEHOLDNAME-Checkerboard-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Checkerboard-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Checkerboard-Pearl.png" alt="PLACEHOLDNAME-Checkerboard-Pearl"/></a>
 		</p>
@@ -169,7 +169,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Aquamarine.png" alt="PLACEHOLDNAME-Tessellation-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Sapphire.png" alt="PLACEHOLDNAME-Tessellation-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Amethyst.png" alt="PLACEHOLDNAME-Tessellation-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Rose Quartz.png" alt="PLACEHOLDNAME-Tessellation-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Rose-Quartz.png" alt="PLACEHOLDNAME-Tessellation-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Hematite.png" alt="PLACEHOLDNAME-Tessellation-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tessellation-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Tessellation-Pearl.png" alt="PLACEHOLDNAME-Tessellation-Pearl"/></a>
 		</p>
@@ -186,7 +186,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Weave-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Aquamarine.png" alt="PLACEHOLDNAME-Weave-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Weave-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Sapphire.png" alt="PLACEHOLDNAME-Weave-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Weave-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Amethyst.png" alt="PLACEHOLDNAME-Weave-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Weave-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Rose Quartz.png" alt="PLACEHOLDNAME-Weave-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Weave-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Rose-Quartz.png" alt="PLACEHOLDNAME-Weave-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Weave-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Hematite.png" alt="PLACEHOLDNAME-Weave-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Weave-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Weave-Pearl.png" alt="PLACEHOLDNAME-Weave-Pearl"/></a>
 		</p>
@@ -203,7 +203,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Dots-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Aquamarine.png" alt="PLACEHOLDNAME-Dots-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dots-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Sapphire.png" alt="PLACEHOLDNAME-Dots-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dots-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Amethyst.png" alt="PLACEHOLDNAME-Dots-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Dots-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Rose Quartz.png" alt="PLACEHOLDNAME-Dots-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dots-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Rose-Quartz.png" alt="PLACEHOLDNAME-Dots-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dots-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Hematite.png" alt="PLACEHOLDNAME-Dots-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dots-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Dots-Pearl.png" alt="PLACEHOLDNAME-Dots-Pearl"/></a>
 		</p>
@@ -220,7 +220,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Hearts-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Aquamarine.png" alt="PLACEHOLDNAME-Hearts-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Hearts-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Sapphire.png" alt="PLACEHOLDNAME-Hearts-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Hearts-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Amethyst.png" alt="PLACEHOLDNAME-Hearts-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Hearts-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Rose Quartz.png" alt="PLACEHOLDNAME-Hearts-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Hearts-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Rose-Quartz.png" alt="PLACEHOLDNAME-Hearts-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Hearts-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Hematite.png" alt="PLACEHOLDNAME-Hearts-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Hearts-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Hearts-Pearl.png" alt="PLACEHOLDNAME-Hearts-Pearl"/></a>
 		</p>
@@ -237,7 +237,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Dust-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Aquamarine.png" alt="PLACEHOLDNAME-Dust-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dust-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Sapphire.png" alt="PLACEHOLDNAME-Dust-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dust-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Amethyst.png" alt="PLACEHOLDNAME-Dust-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Dust-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Rose Quartz.png" alt="PLACEHOLDNAME-Dust-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Dust-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Rose-Quartz.png" alt="PLACEHOLDNAME-Dust-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dust-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Hematite.png" alt="PLACEHOLDNAME-Dust-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Dust-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Dust-Pearl.png" alt="PLACEHOLDNAME-Dust-Pearl"/></a>
 		</p>
@@ -254,7 +254,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Clouds-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Aquamarine.png" alt="PLACEHOLDNAME-Clouds-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Clouds-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Sapphire.png" alt="PLACEHOLDNAME-Clouds-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Clouds-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Amethyst.png" alt="PLACEHOLDNAME-Clouds-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Clouds-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Rose Quartz.png" alt="PLACEHOLDNAME-Clouds-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Clouds-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Rose-Quartz.png" alt="PLACEHOLDNAME-Clouds-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Clouds-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Hematite.png" alt="PLACEHOLDNAME-Clouds-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Clouds-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Clouds-Pearl.png" alt="PLACEHOLDNAME-Clouds-Pearl"/></a>
 		</p>
@@ -271,7 +271,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Ocean-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Aquamarine.png" alt="PLACEHOLDNAME-Ocean-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Ocean-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Sapphire.png" alt="PLACEHOLDNAME-Ocean-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Ocean-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Amethyst.png" alt="PLACEHOLDNAME-Ocean-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Ocean-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Rose Quartz.png" alt="PLACEHOLDNAME-Ocean-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Ocean-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Rose-Quartz.png" alt="PLACEHOLDNAME-Ocean-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Ocean-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Hematite.png" alt="PLACEHOLDNAME-Ocean-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Ocean-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Ocean-Pearl.png" alt="PLACEHOLDNAME-Ocean-Pearl"/></a>
 		</p>
@@ -288,7 +288,7 @@
 			<a href="../assets/PLACEHOLDFOLDER/Tribal-Aquamarine.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Aquamarine.png" alt="PLACEHOLDNAME-Tribal-Aquamarine"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tribal-Sapphire.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Sapphire.png" alt="PLACEHOLDNAME-Tribal-Sapphire"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tribal-Amethyst.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Amethyst.png" alt="PLACEHOLDNAME-Tribal-Amethyst"/></a>
-			<a href="../assets/PLACEHOLDFOLDER/Tribal-Rose Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Rose Quartz.png" alt="PLACEHOLDNAME-Tribal-Rose-Quartz"/></a>
+			<a href="../assets/PLACEHOLDFOLDER/Tribal-Rose-Quartz.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Rose-Quartz.png" alt="PLACEHOLDNAME-Tribal-Rose-Quartz"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tribal-Hematite.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Hematite.png" alt="PLACEHOLDNAME-Tribal-Hematite"/></a>
 			<a href="../assets/PLACEHOLDFOLDER/Tribal-Pearl.png" download><img src="../assets/PLACEHOLDFOLDER/Tribal-Pearl.png" alt="PLACEHOLDNAME-Tribal-Pearl"/></a>
 		</p>
