@@ -25,17 +25,17 @@
 
 <body>
 	<nav>
-		<a href="../index">
+		<a href="../index.html">
 		<h2 class="home">Home</h2>
 		</a>
 		<div class="menu dropdown">
 			<img src="../assets/Menu-Icon.svg" class="dropbtn" alt="Menu">
 			<div class="dropdown-content">
-				<a href="../discord">Discord</a>
-				<a href="../games">Games</a>
-				<a href="../letters">Letters</a>
-				<a href="../defaults">Defaults</a>
-				<a href="../other">Others</a>
+				<a href="../discord.html">Discord</a>
+				<a href="../games.html">Games</a>
+				<a href="../letters.html">Letters</a>
+				<a href="../defaults.html">Defaults</a>
+				<a href="../other.html">Others</a>
 			</div>
 		</div>
 		<h3 class="signifier">&nbsp;</h3>
@@ -51,7 +51,7 @@
 	<h2>Pick a catagory</h2>
 	<!-- TemplateBeginEditable name="body" -->
 	<section class="body">
-		<a href="../">
+		<a href="../.html">
 		<div class="scheme">
 			<img src="../assets/placeholder128.png" alt="">
 			<h2>Option 1</h2>
@@ -60,7 +60,7 @@
 			</p>
 		</div>
 		</a>
-		<a href="../">
+		<a href="../.html">
 		<div class="scheme">
 			<img src="../assets/placeholder128.png" alt="">
 			<h2>Option 2</h2>
@@ -69,7 +69,7 @@
 			</p>
 		</div>
 		</a>
-		<a href="../">
+		<a href="../.html">
 		<div class="scheme">
 			<img src="../assets/placeholder128.png" alt="">
 			<h2>Option 3</h2>
@@ -78,7 +78,7 @@
 			</p>
 		</div>
 		</a>
-		<a href="../">
+		<a href="../.html">
 		<div class="scheme">
 			<img src="../assets/placeholder128.png" alt="">
 			<h2>Option 4</h2>
