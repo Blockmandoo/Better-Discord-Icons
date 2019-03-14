@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@media (max-width : 6in ) {
+@media (max-width : 572px ) {
 .desktop {
 	display: none;
 }
@@ -24,6 +24,8 @@
 .scheme img {
 	float: left;
 	margin-right: 10px;
+}
+ @media (max-width: 430px) {
 }
 /*TEMPORARY - DELETE ME*/
 .signifier::before, .signifier {

@@ -1,7 +1,6 @@
 @charset "utf-8";
 
-/*@media screen and ( min-width : 572px ) and (max-width : 1047px ) {*/
-@media (min-width: 6in) and (max-width: 11in) {
+@media (min-width:572px) and (max-width:1047px){
 .desktop {
 	display: none;
 }
@@ -27,7 +26,7 @@
 }
 
 /*@media (min-width:572px) and (max-width:725px) {*/
-@media (min-width: 6in) and (max-width: 7.6in) {
+@media (min-width:572px) and (max-width:725px){
 .smalltablet {
 	display: inline;
 }

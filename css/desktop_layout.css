@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@media (min-width : 11in ) {
+@media (min-width:1047px){
 header {
 	max-width: 750px;
 	border-radius: 0 0 10px 10px
