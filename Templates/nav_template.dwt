@@ -48,6 +48,9 @@
 		</p>
 		<!-- TemplateEndEditable -->
 	</header>
+	<!-- TemplateBeginEditable name="pageTitle" -->
+	<h1>Title</h1>
+	<!-- TemplateEndEditable -->
 	<h2>Pick a catagory</h2>
 	<!-- TemplateBeginEditable name="body" -->
 	<section class="body">

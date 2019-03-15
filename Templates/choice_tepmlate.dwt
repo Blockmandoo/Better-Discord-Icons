@@ -98,6 +98,9 @@
 			</ol>
 		</section>
 	</header>
+	<!-- TemplateBeginEditable name="pageTitle" -->
+	<h1>Title</h1>
+	<!-- TemplateEndEditable -->
 	<section class="body iconbody">
 		<!--Gradients-->
 		<h2 class="style" id="Gradients">Gradients</h2>
