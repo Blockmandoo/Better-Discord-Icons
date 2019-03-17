@@ -31,7 +31,8 @@ h2.subCat {
 .body img {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
-	background: #23272A;
+	background: #202226;
+	color: #202226;
 	background-image: url("../assets/Placeholder128.png");
 	transition: .4s;
 	width: 128px;
