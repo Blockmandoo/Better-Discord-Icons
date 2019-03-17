@@ -32,9 +32,13 @@ h2.subCat {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
 	background: #23272A;
+	background-image: url("../assets/Placeholder128.png");
 	transition: .4s;
 	width: 128px;
 	height: 128px;
+}
+.scheme img {
+	background-image: url("../assets/Placeholder128-Peridot.png");
 }
 .body a:hover img {
 	border: #7289DA solid 4px;
