@@ -19,9 +19,16 @@
 }
 
 /*5 Wide*/
-@media (min-width: 728.1px) and (max-width: 1414px) {
+@media (min-width: 728.1px) and (max-width: 1565px) {
 .icon.body {
 	max-width: 750px;
+}
+}
+
+/*10 Wide*/
+@media (min-width: 1565.1px) {
+.icon.body {
+	max-width: 1400px;
 }
 }
 
