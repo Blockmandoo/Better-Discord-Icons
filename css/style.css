@@ -72,8 +72,11 @@ h2 {
 }
 .dropdown-content a {
 	color: white;
-	background: #202225;
+	background: hsla(216,7%,14%,0.90);
 	text-decoration: none;
+}
+.dropdown-content a:last-child {
+	border-bottom-left-radius: 5px;
 }
 .dropdown-content a:hover {
 	background: #7289DA;

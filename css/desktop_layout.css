@@ -29,7 +29,9 @@ nav {
 	padding: 1.25em;
 }
 .dropdown-content {
-	top: 3.5em;
+	top: 2.4em;
+	width: 300px;
+	font-size: 2em;
 }
 .scheme {
 	width: 240px;

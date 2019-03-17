@@ -72,6 +72,7 @@ img {
 	display: block;
 	text-align: center;
 	padding: 2px 16px;
+	margin-bottom: 2px;
 }
 .dropdown:hover .dropdown-content {
 	opacity: 1;
