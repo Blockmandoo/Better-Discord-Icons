@@ -67,7 +67,8 @@ h2 {
 	font-size: 1.5em;
 }
 /*Dropdown stuff*/
-.dropdown-content {
+.dropdown * {
+	transition: .3s;
 }
 .dropdown-content a {
 	color: white;
@@ -77,3 +78,8 @@ h2 {
 .dropdown-content a:hover {
 	background: #7289DA;
 }
+/*TEMPORARY - DELETE ME*/
+.signifier::before {
+	color: hsla(0,0%,100%,0.20);
+}
+/*TEMPORARY - DELETE ME*/

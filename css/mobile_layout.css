@@ -1,6 +1,9 @@
 @charset "utf-8";
 
 @media (max-width : 572px ) {
+header {
+	margin-top: 3em;
+}
 .desktop {
 	display: none;
 }
@@ -10,6 +13,21 @@
 .style img {
 	width: 26vw;
 	height: 26vw;
+}
+nav {
+	height: 3em;
+}
+.home, .subCat {
+	margin-top: .2em;
+	font-size: 1.8em;
+}
+.menu {
+	width: 25px;
+	height: 25px;
+	padding: .75em;
+}
+.dropdown-content {
+	top: 2.2em;
 }
 .scheme {
 	text-align: left;
@@ -28,9 +46,25 @@
  @media (max-width: 430px) {
 }
 /*TEMPORARY - DELETE ME*/
-.signifier::before, .signifier {
+.signifier::before {
 	content: "Mobile";
-	color: hsla(0,0%,100%,0.20);
+}
+.signifier {
+	top: 2em;
 }
 /*TEMPORARY - DELETE ME*/
+}
+
+@media (max-width: 450px) {
+.subCat {
+	margin-left: 5px;
+	margin-top: .6em;
+	font-size: 1.3em;
+}
+}
+
+@media (max-width: 350px) {
+.subCat {
+	display: none;
+}
 }
