@@ -2,6 +2,7 @@
 @import url("desktop_layout.css") 
 	(min-width:1047px);
 @import url("tablet_layout.css") 
-	(min-width:572px) and (max-width:1047px) and (min-device-width:572px) and (max-device-width:1047px);
+	(min-width:572px) and (max-width:1047px) and
+	(min-device-width:572px) and (max-device-width:1047px);
 @import url("mobile_layout.css")
 	(max-width: 572px), (max-device-width: 572px);
