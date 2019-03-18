@@ -1,0 +1,29 @@
+html {
+	background-color: #2C2F33;
+}
+body::before {
+	background-image:	url("../assets/Background-Icons.png");
+	background-size: 450px 450px;
+  content: "";
+  opacity: 0.15;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+	filter: blur(4px);
+}
+body::after {
+	background-image: linear-gradient(transparent, #2C2F33);
+  content: "";
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+body {
+	background: none;
+}

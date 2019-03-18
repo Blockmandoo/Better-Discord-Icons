@@ -1,6 +1,8 @@
 @charset "utf-8";
 
-/*Icons*/
+/*----------------*/
+/*     Icons      */
+/*----------------*/
 /*3 Wide*/
 @media (min-width: 432.1px) and (max-width: 587px) {
 .body > p > a:last-child {
@@ -32,37 +34,39 @@
 }
 }
 
-/*Choices*/
+/*----------------*/
+/*    Choices     */
+/*----------------*/
 /*2 Wide*/
 @media (min-width: 572.1px) and (max-width: 725px) {
-.choice.body {
+.body.choice {
 	max-width: 525px;
 }
 }
 
 @media (min-width: 725.1px) and (max-width: 872px) {
-.choice.body {
+.body.choice {
 	max-width: 565px;
 }
 }
 
 /*3 Wide*/
 @media (min-width: 872.1px) and (max-width: 1261px) {
-.choice.body {
+.body.choice {
 	max-width: 845px;
 }
 }
 
 /*4 Wide*/
 @media (min-width: 1261.1px) and (max-width: 1600px) {
-.choice.body {
+.body.choice {
 	max-width: 1125px;
 }
 }
 
 /*5 Wide*/
 @media (min-width: 1600.1px) {
-.choice.body {
+.body.choice {
 	max-width: 1400px;
 }
 }
