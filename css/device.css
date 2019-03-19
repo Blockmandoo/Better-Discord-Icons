@@ -2,8 +2,8 @@
 @import url("desktop_layout.css") 
 	(min-width:1047px);
 @import url("tablet_layout.css") 
-	(min-width: 572px) and (max-width:1047px),
-	not (min-width:1047px) and (max-width: 572px) and (max-device-width: 572px);
+	(min-width: 572px) and (max-width:1047px)
+/*	, not (min-width:1047px) and (max-width: 572px) and (max-device-width: 572px)*/;
 @import url("mobile_layout.css")
-	(max-width: 572px),
-	(max-device-width: 572px);
+	(max-width: 572px)
+/*	,	(max-device-width: 572px)*/;
