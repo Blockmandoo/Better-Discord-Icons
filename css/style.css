@@ -41,6 +41,9 @@ h2.subCat {
 .scheme img {
 	background-image: url("../assets/Placeholder128-Peridot.png");
 }
+.scheme p {
+	color: hsla(0,0%,100%,0.5);
+}
 .body a:hover img {
 	border: #7289DA solid 4px;
 }
