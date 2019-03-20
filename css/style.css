@@ -35,8 +35,8 @@ h2.subCat {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
 	background: #202226;
-	color: #202226;
-	background-image: url("../assets/Placeholder128.png");
+	color: transparent;
+	background-image: url("../assets/Loading.gif");
 	transition: .4s;
 	width: 128px;
 	height: 128px;
