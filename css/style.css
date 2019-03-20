@@ -28,6 +28,11 @@ a {
 h2.subCat {
 	color: hsla(0,0%,100%,0.5);
 }
+/*
+.menu {
+	background: #a03;
+}
+*/
 .body img {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;

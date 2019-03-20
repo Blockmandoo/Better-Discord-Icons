@@ -22,15 +22,16 @@ nav {
 .menu {
 	width: 30px;
 	height: 30px;
-	padding: 1em;
+	padding: 1.05em;
+	padding-left: 3em;
 }
 .dropdown-content {
-	top: 2.1em;
+	top: 2.22em;
 	width: 230px;
 	font-size: 1.8em;
 }
 .scheme {
-	width: 240px;
+	width: 220px;
 	min-height: 300px;
 	padding: 6px 12px;
 	margin: 0 8px 16px;
@@ -40,11 +41,6 @@ nav {
 	content: "Tablet";
 }
 .signifier {
-	top: 2.5em;
+	top: 0em;
 }
 /*TEMPORARY - DELETE ME*/
-
-.scheme {
-	width: 220px;
-}
-}

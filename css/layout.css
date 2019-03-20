@@ -36,7 +36,6 @@ img {
 	margin-left: 14px;
 }
 .menu {
-	border-radius: 0px;
 	float: right;
 }
 .smalltablet {
@@ -60,7 +59,6 @@ img {
 .dropdown-content {
 	display: none;
 	position: absolute;
-	top: 2.2em;
 	right: 0;
 	z-index: 1;
 	min-width: 80px;

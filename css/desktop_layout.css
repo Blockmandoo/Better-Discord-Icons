@@ -25,10 +25,11 @@ nav {
 .menu {
 	width: 35px;
 	height: 35px;
-	padding: 1.25em;
+	padding: 1.4em;
+	padding-left: 4em;
 }
 .dropdown-content {
-	top: 2.4em;
+	top: 2.5em;
 	width: 300px;
 	font-size: 2em;
 }
@@ -43,6 +44,6 @@ nav {
 	content: "Desktop";
 }
 .signifier {
-	top: 3.5em;
+	top: 0;
 }
 /*TEMPORARY - DELETE ME*/

@@ -21,9 +21,10 @@ nav {
 	width: 25px;
 	height: 25px;
 	padding: .75em;
+	padding-left: 1.2em;
 }
 .dropdown-content {
-	top: 2.2em;
+	top: 2.25em;
 }
 .scheme {
 	text-align: left;
@@ -39,12 +40,16 @@ nav {
 	float: left;
 	margin-right: 10px;
 }
+.scheme p {
+	font-size: .75em;
+}
 /*TEMPORARY - DELETE ME*/
 .signifier::before {
 	content: "Mobile";
 }
 .signifier {
-	top: 2em;
+	font-size: .9em;
+	top: 2.2em;
 }
 /*TEMPORARY - DELETE ME*/
 
