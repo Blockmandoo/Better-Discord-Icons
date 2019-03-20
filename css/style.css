@@ -4,11 +4,6 @@ html, header, footer, body, h1, h2, p, img, ul, li, a {
 	font-family: calibri, arial;
 	color: white;
 }
-/*
-html, body {
-	background-color: #2C2F33;
-}
-*/
 nav {
 	background: #202225;
 }
