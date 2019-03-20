@@ -1,11 +1,14 @@
 @charset "utf-8";
+@import url("background-icons.css");
 html, header, footer, body, h1, h2, p, img, ul, li, a {
 	font-family: calibri, arial;
 	color: white;
 }
+/*
 html, body {
 	background-color: #2C2F33;
 }
+*/
 nav {
 	background: #202225;
 }
@@ -82,6 +85,7 @@ h2 {
 	opacity: 0;
 	background: #2C2F33;
 	border-bottom-left-radius: 5px;
+	font-size: 1.35em;
 }
 .dropdown-content a {
 	color: white;
