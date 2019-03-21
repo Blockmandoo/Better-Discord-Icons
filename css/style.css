@@ -15,6 +15,10 @@ header, footer {
 	background-color: #23272A;
 	border-radius: 0px;
 }
+header a {
+	text-decoration-style: none; 
+	color: #55c91c;
+}
 ul > li {
 	border-radius: 5px;
 	list-style: none;
