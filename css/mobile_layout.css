@@ -44,6 +44,7 @@ nav {
 	font-size: .75em;
 }
 /*TEMPORARY - DELETE ME*/
+/*
 .signifier::before {
 	content: "Mobile";
 }
@@ -51,6 +52,7 @@ nav {
 	font-size: .9em;
 	top: 2.2em;
 }
+*/
 /*TEMPORARY - DELETE ME*/
 
 @media (max-width: 475px) {
