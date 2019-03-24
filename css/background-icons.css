@@ -1,8 +1,8 @@
 html {
-	background-color: #2C2F33;
+	background: #2C2F33;
 }
 body::before {
-	background-image: url("../assets/Background-Icons.png");
+	background: url("../assets/Background-Icons.png");
 	background-size: 450px 450px;
 	content: "";
 	opacity: 0.15;
