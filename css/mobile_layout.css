@@ -43,6 +43,9 @@ nav {
 .scheme p {
 	font-size: .75em;
 }
+.anchor {
+	transform: translateY(-350px);
+}
 /*TEMPORARY - DELETE ME*/
 /*
 .signifier::before {
