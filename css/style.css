@@ -15,26 +15,23 @@ header, footer {
 	background-color: #292B2D;
 	border-radius: 0px;
 }
-header a {
-	text-decoration-style: none; 
-	color: #55c91c;
+h2.subCat {
+	color: hsla(0,0%,100%,0.5);
 }
 ul > li {
 	border-radius: 5px;
 	list-style: none;
 }
-a {
-	text-decoration-style: none;
+header a {
+	color: #55c91c;
+}
+a, header a, .body a {
 	color: transparent;
 }
-h2.subCat {
-	color: hsla(0,0%,100%,0.5);
+.alphaNav > a {
+	color: white;
+	text-decoration-style: none;
 }
-/*
-.menu {
-	background: #a03;
-}
-*/
 .body img {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
