@@ -22,15 +22,19 @@ ul > li {
 	border-radius: 5px;
 	list-style: none;
 }
-header a {
-	color: #55c91c;
-}
 a, header a, .body a {
 	color: transparent;
 }
+header a {
+	color: #55c91c;
+	text-decoration: none;
+}
+header a:hover {
+	color: #9dfd1a;
+	text-decoration: underline;
+}
 .alphaNav > a {
 	color: white;
-	text-decoration-style: none;
 }
 .body img {
 	border-radius: 10px;
@@ -66,6 +70,10 @@ a, header a, .body a {
 .scheme img {
 	border-radius: 50%;
 	border: #23272A solid 4px;
+}
+.disabled {
+	opacity: .3;
+	cursor: no-drop;
 }
 h1 {
 	font-size: 2em;
