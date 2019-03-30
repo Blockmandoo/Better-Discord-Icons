@@ -33,9 +33,6 @@ header a:hover {
 	color: #9dfd1a;
 	text-decoration: underline;
 }
-.alphaNav > a {
-	color: white;
-}
 .body img {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
@@ -71,9 +68,15 @@ header a:hover {
 	border-radius: 50%;
 	border: #23272A solid 4px;
 }
+.alphaNav > a {
+	color: white;
+}
+.alphaNav {
+	cursor: default;
+}
 .disabled {
 	opacity: .3;
-	cursor: no-drop;
+	cursor: url("../assets/nullCursor.png"),no-drop;
 }
 h1 {
 	font-size: 2em;
