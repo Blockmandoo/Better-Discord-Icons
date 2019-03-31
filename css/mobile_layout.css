@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 header {
 	margin-top: 3em;
 }
@@ -48,18 +47,13 @@ nav {
 }
 .dropdown-content {
 	top: 2.25em;
+	left: 0;
+	right: 0;
+	border-bottom-left-radius: 0px;
 }
-/*TEMPORARY - DELETE ME*/
-/*
-.signifier::before {
-	content: "Mobile";
+.dropdown-content a:last-child {
+	border-bottom-left-radius: 0px;
 }
-.signifier {
-	font-size: .9em;
-	top: 2.2em;
-}
-*/
-/*TEMPORARY - DELETE ME*/
 
 @media (max-width: 475px) {
 .subCat {

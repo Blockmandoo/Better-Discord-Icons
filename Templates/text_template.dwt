@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Better Profile Pictures</title>
+	<meta property="og:title" content="Better Profile Pictures"/>
+	<!-- TemplateEndEditable -->
+	<meta property="og:type" content="article"/>
+	<meta property="og:image:type" content="image/png"/>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../css/reset.css" rel="stylesheet"/>
+	<link href="../css/style.css" rel="stylesheet"/>
+	<link href="../css/layout.css" rel="stylesheet"/>
+	<link href="../css/device.css" rel="stylesheet"/>
+	<link href="../css/body-width.css" rel="stylesheet"/>
+	<!-- TemplateBeginEditable name="head" -->
+	<meta name="Keywords" content="Better Profile Pictures, Better Discord Icons, Better Discord, Better, Discord, Icons, Video games, Video, Games, Blockhead, Nathanael, Letters/Numbers, Letters, Numbers, Default Profile, Default, Profile, Picture, Pic, Better Profile, Better Default">
+	<meta property="og:description" content="A free website for those who want a discord profile picture that looks better than the default."/>
+	<meta property="og:image:url" content="/../assets/Other/BetterDiscord/Gradient-Peridot.png"/>
+	<link href="../assets/Other/BetterDiscord/Gradient-Peridot.png" rel="icon"/>
+	<!-- TemplateEndEditable -->
+</head>
+
+<body class="choice">
+	<nav>
+		<a href="../index.html">
+		<h2 class="home">Home</h2>
+		</a>
+		<!-- TemplateBeginEditable name="subCatagory" -->
+		<a href="../">
+			<h2 class="subCat">&gt; sub</h2>
+		</a>
+		<!-- TemplateEndEditable -->
+		<div class="menu dropdown">
+			<img src="../assets/Menu-Icon.svg" class="dropbtn" alt="Menu">
+			<div class="dropdown-content">
+				<a href="../games.html">Games</a>
+				<a href="../heroes.html">Super Heroes</a>
+				<a href="../letters.html">Letters</a>
+				<a href="../defaults.html">Defaults</a>
+				<a href="../other.html">Others</a>
+			</div>
+		</div>
+		<h3 class="signifier"></h3>
+	</nav>
+	<header>
+		<section>
+			<h1>Better Profile Pictures</h1>
+		</section>
+	</header>
+	<!-- TemplateBeginEditable name="pageTitle" -->
+	<h1>Title</h1>
+	<!-- TemplateEndEditable -->
+	<section class="body text">
+		<!-- TemplateBeginEditable name="pageBody" -->
+		<h3 class="style">Heading 1</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni asperiores alias fugiat quos repellat accusamus quaerat sunt omnis est beatae a ab inventore quibusdam esse adipisci tenetur nesciunt, hic cupiditate consectetur accusantium dicta dolorem! Aperiam sint laborum tempore repellendus laboriosam perferendis ducimus aspernatur repellat commodi iusto, voluptatem, maxime vero nihil, officia cumque esse nesciunt minima temporibus cupiditate cum fuga. Dignissimos, tempora atque! Quisquam, natus quae deleniti ratione. Tempore vitae quia cum praesentium laborum, impedit amet eveniet. Quas pariatur, sed debitis sit adipisci nulla ab earum distinctio inventore facere! Officiis libero, blanditiis consectetur, a esse quod! Dolores eligendi eos, sapiente!</p>
+		<h3 class="style">Heading 2</h3>
+		<p>Quae pariatur, iure velit natus rerum quo exercitationem perspiciatis delectus autem at deleniti illum molestias maiores corporis fugiat omnis in nostrum laborum incidunt aspernatur nesciunt! Totam libero ducimus doloremque cum maxime inventore a? Accusantium et eaque voluptatum voluptatibus quis quo nisi facilis corporis veniam, repellat deserunt, nemo debitis nihil accusamus magni est consectetur explicabo nostrum. Vel nisi totam laudantium veritatis iure nesciunt! Error id itaque provident ullam, fugit. Nemo recusandae aperiam tempora vitae doloribus necessitatibus itaque provident in repellat saepe, minus consequatur laborum harum cupiditate optio quidem quisquam accusamus facere, quod accusantium eos dolor. Tenetur voluptatem, error ratione omnis laudantium.</p>
+		<h3 class="style">Heading 3</h3>
+		<p>Laboriosam reiciendis provident cupiditate amet, voluptatum error dolore cum dolorem accusamus laborum! Reiciendis consectetur eum, sequi consequuntur soluta laudantium, atque culpa doloremque vero, illum voluptatum quasi. Voluptatibus ad, sint doloribus neque. Architecto quisquam ea tenetur officia in? Quas soluta delectus alias adipisci ea. At nihil facilis quibusdam, distinctio, dolorum debitis quisquam alias corrupti necessitatibus, ex rem illo eveniet vel. Alias cupiditate et, distinctio eius officia ipsum recusandae unde molestiae expedita, repudiandae, maiores quaerat harum. A dolor voluptates quae officiis saepe minus obcaecati nobis illo quis necessitatibus eveniet animi laboriosam expedita atque ratione sapiente ex sit iste ea cum, qui sint!</p>
+		<!-- TemplateEndEditable -->
+	</section>
+	<footer>
+		<p>
+			Entire website hand coded by Nathanael "Blockhead" J.
+		</p>
+	</footer>
+	<!--Author is Nathanael "Blockhead" Jacobsma-->
+</body>
+</html>

@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<!-- TemplateBeginEditable name="doctitle" -->
-	<title>Better Discord Icons</title>
-	<meta property="og:title" content="Better Discord Icons"/>
+	<title>Better Profile Pictures</title>
+	<meta property="og:title" content="Better Profile Pictures"/>
 	<!-- TemplateEndEditable -->
 	<meta property="og:type" content="article"/>
 	<meta property="og:image:type" content="image/png"/>
@@ -15,7 +15,7 @@
 	<link href="../css/device.css" rel="stylesheet"/>
 	<link href="../css/body-width.css" rel="stylesheet"/>
 	<!-- TemplateBeginEditable name="head" -->
-	<meta name="Keywords" content="Better Discord Icons, Better Discord, Better, Discord, Icons, Video games, Video, Games, Blockhead, Nathanael, Letters/Numbers, Letters, Numbers, Default Profile, Default, Profile, Picture, Pic, Better Profile, Better Default">
+	<meta name="Keywords" content="Better Profile Pictures, Better Discord, Better, Discord, Icons, Video games, Video, Games, Blockhead, Nathanael, Letters/Numbers, Letters, Numbers, Default Profile, Default, Profile, Picture, Pic, Better Profile, Better Default">
 	<meta property="og:description" content="A free website for those who want a discord profile picture that looks better than the default."/>
 	<meta property="og:image:url" content="/assets/Other/BetterDiscord/Gradient-Peridot.png"/>
 	<link href="../assets/Other/BetterDiscord/Gradient-Peridot.png" rel="icon"/>
@@ -35,8 +35,8 @@
 		<div class="menu dropdown">
 			<img src="../assets/Menu-Icon.svg" class="dropbtn" alt="Menu">
 			<div class="dropdown-content">
-				<a href="../discord.html">Discord</a>
 				<a href="../games.html">Games</a>
+				<a href="../heroes.html">Superheroes</a>
 				<a href="../letters.html">Letters</a>
 				<a href="../defaults.html">Defaults</a>
 				<a href="../other.html">Others</a>
@@ -45,7 +45,7 @@
 		<h3 class="signifier"></h3>
 	</nav>
 	<header>
-		<h1>Better Discord Icons</h1>
+		<h1>Better Profile Pictures</h1>
 		<!-- TemplateBeginEditable name="question" -->
 		<p>
 			What kind of icon would you like? Do you want one just like the default Discord icon, or maybe support your favorite game with their logo. Just please don't continue using the default profile picture.
@@ -59,32 +59,32 @@
 	<!-- TemplateBeginEditable name="alphabetNav" -->
 	<p class="alphaNav">
 		&lt;
-		<a href="#A">A</a>
-		<a href="#B">B</a>
-		<a href="#C">C</a>
-		<a href="#D">D</a>
-		<a href="#E">E</a>
-		<a href="#F">F</a>
-		<a href="#G">G</a>
-		<a href="#H">H</a>
-		<a href="#I">I</a>
-		<a href="#J">J</a>
-		<a href="#K">K</a>
-		<a href="#L">L</a>
-		<a href="#M">M</a>
-		<a href="#N">N</a>
-		<a href="#O">O</a>
-		<a href="#P">P</a>
-		<a href="#Q">Q</a>
-		<a href="#R">R</a>
-		<a href="#S">S</a>
-		<a href="#T">T</a>
-		<a href="#U">U</a>
-		<a href="#V">V</a>
-		<a href="#W">W</a>
-		<a href="#X">X</a>
-		<a href="#Y">Y</a>
-		<a href="#Z">Z</a>
+		<a href="#A" style="text-decoration:none">A</a>
+		<a href="#B" style="text-decoration:none">B</a>
+		<a href="#C" style="text-decoration:none">C</a>
+		<a href="#D" style="text-decoration:none">D</a>
+		<a href="#E" style="text-decoration:none">E</a>
+		<a href="#F" style="text-decoration:none">F</a>
+		<a href="#G" style="text-decoration:none">G</a>
+		<a href="#H" style="text-decoration:none">H</a>
+		<a href="#I" style="text-decoration:none">I</a>
+		<a href="#J" style="text-decoration:none">J</a>
+		<a href="#K" style="text-decoration:none">K</a>
+		<a href="#L" style="text-decoration:none">L</a>
+		<a href="#M" style="text-decoration:none">M</a>
+		<a href="#N" style="text-decoration:none">N</a>
+		<a href="#O" style="text-decoration:none">O</a>
+		<a href="#P" style="text-decoration:none">P</a>
+		<a href="#Q" style="text-decoration:none">Q</a>
+		<a href="#R" style="text-decoration:none">R</a>
+		<a href="#S" style="text-decoration:none">S</a>
+		<a href="#T" style="text-decoration:none">T</a>
+		<a href="#U" style="text-decoration:none">U</a>
+		<a href="#V" style="text-decoration:none">V</a>
+		<a href="#W" style="text-decoration:none">W</a>
+		<a href="#X" style="text-decoration:none">X</a>
+		<a href="#Y" style="text-decoration:none">Y</a>
+		<a href="#Z" style="text-decoration:none">Z</a>
 	&gt;
 	</p>
 	<!-- TemplateEndEditable -->
