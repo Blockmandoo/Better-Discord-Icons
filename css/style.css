@@ -22,14 +22,14 @@ ul > li {
 	border-radius: 5px;
 	list-style: none;
 }
-a, header a, .body a {
+a, header a, .scheme {
 	color: transparent;
 }
-header a {
+header a, .link {
 	color: #55c91c;
 	text-decoration: none;
 }
-header a:hover {
+header a:hover, .link:hover {
 	color: #9dfd1a;
 	text-decoration: underline;
 }
