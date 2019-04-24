@@ -78,6 +78,9 @@ header a:hover, .link:hover {
 	opacity: .3;
 	cursor: url("../assets/nullCursor.png"), no-drop;
 }
+.colorKey img {
+	border-radius: 50%;
+}
 h1 {
 	font-size: 2em;
 }
