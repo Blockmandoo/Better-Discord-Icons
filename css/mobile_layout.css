@@ -45,6 +45,9 @@ nav {
 .scheme p {
 	font-size: .75em;
 }
+.colorKey {
+	display: none;
+}
 .dropdown-content {
 	top: 2.25em;
 	left: 0;
