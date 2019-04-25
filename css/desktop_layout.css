@@ -12,7 +12,7 @@ header {
 	flex-wrap: wrap;
 	margin: auto;
 	padding: 8px;
-	width: 90%
+	width: 90%;
 }
 nav {
 	height: 5em;
@@ -36,7 +36,7 @@ nav {
 	width: 240px;
 	min-height: 330px;
 	padding: 6px 12px;
-	margin: 0 8px 16px;
+	margin-bottom: 16px;
 }
 .anchor {
 	transform: translateY(-300px);

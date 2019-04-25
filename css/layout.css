@@ -58,6 +58,9 @@ img {
 .body a {
 	margin: auto;
 }
+.anchor {
+	margin: 0;
+}
 /*Dropdown stuff*/
 .dropdown {
 	float: right;
