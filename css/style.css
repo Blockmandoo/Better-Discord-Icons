@@ -87,6 +87,9 @@ h1 {
 h2 {
 	font-size: 1.5em;
 }
+em {
+	color: inherit;
+}
 /*Dropdown stuff*/
 .dropdown * {
 	transition: .3s;
