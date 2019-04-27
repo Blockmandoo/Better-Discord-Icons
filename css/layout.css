@@ -16,6 +16,7 @@ header + h2 {
 body, .body {
 	text-align: center;
 	min-height: 100%;
+	margin-bottom: 80px;
 }
 nav {
 	width: 100%;
