@@ -32,6 +32,9 @@ nav {
 .scheme * {
 	display: block;
 }
+.scheme em {
+	display: inline;
+}
 .scheme img {
 	float: left;
 	margin-right: 10px;
