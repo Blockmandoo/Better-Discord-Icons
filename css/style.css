@@ -43,7 +43,7 @@ em {
 	color: inherit;
 }
 .body img {
-	border-radius: 10px;
+	border-radius: 8%;
 	border: #2C2F33 solid 4px;
 	background-color: #202226;
 	color: hsla(0,0%,100%,0.25);
@@ -93,6 +93,12 @@ em {
 .greyed {
 	color: hsla(0,0%,100%,0.25);
 }
+/*Anchor troubleshooting*/
+/*
+.anchor {
+	box-shadow: 0px 0px 0px 9px green;
+}
+*/
 /*Dropdown stuff*/
 .dropdown * {
 	transition: .3s;

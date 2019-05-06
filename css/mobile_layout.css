@@ -22,12 +22,6 @@ nav {
 	padding: .75em;
 	padding-left: 1.2em;
 }
-.anchor {
-	transform: translateY(-300px);
-	width: 10px;
-	height: 10px;
-	background: #000;
-}
 .scheme {
 	text-align: left;
 	margin: 0 16px 16px;
@@ -56,6 +50,10 @@ nav {
 }
 .dropdown-content a:last-child {
 	border-bottom-left-radius: 0px;
+}
+.anchor {
+	transform: translateY(-60px);
+	position: absolute;
 }
 
 @media (max-width: 475px) {
