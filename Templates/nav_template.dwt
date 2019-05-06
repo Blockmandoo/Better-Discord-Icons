@@ -29,7 +29,7 @@
 		</a>
 		<!-- TemplateBeginEditable name="subCatagory" -->
 		<a href="../">
-			<h2 class="subCat">&gt; sub</h2>
+		<h2 class="subCat">&gt; sub</h2>
 		</a>
 		<!-- TemplateEndEditable -->
 		<div class="menu dropdown">
@@ -51,6 +51,22 @@
 			What kind of icon would you like? Do you want one just like the default Discord icon, or maybe support your favorite game with their logo. Just please don't continue using the default profile picture.
 		</p>
 		<!-- TemplateEndEditable -->
+		<br>
+		<h3 class="colorKey">Color Key:</h3>
+		<ul class="colorKey">
+			<li>
+				<img src="../assets/Mini-Aquamarine.png" alt="Blue">: A page with more choices of logos for you to select.
+			</li>
+			<li>
+				<img src="../assets/Mini-Peridot.png" alt="Green">: A page of images narrowed down to one logo for you to download
+			</li>
+			<li>
+				<img src="../assets/Mini-Jasper.png" alt="Orange">: A page that is incomplete/still in development
+			</li>
+			<li>
+				<img src="../assets/Mini-Ruby.png" alt="Red">: An unimplemented page that goes no where but shows that we want it to be there eventually
+			</li>
+		</ul>
 	</header>
 	<!-- TemplateBeginEditable name="pageTitle" -->
 	<h1>Title</h1>
@@ -85,11 +101,11 @@
 		<a href="#X" style="text-decoration:none">X</a>
 		<a href="#Y" style="text-decoration:none">Y</a>
 		<a href="#Z" style="text-decoration:none">Z</a>
-	&gt;
+		&gt;
 	</p>
 	<!-- TemplateEndEditable -->
 	<section class="body choice">
-	<!-- TemplateBeginEditable name="body" -->
+		<!-- TemplateBeginEditable name="body" -->
 		<a href="../.html">
 		<div class="scheme">
 			<img src="../assets/.png" alt="">
@@ -144,7 +160,7 @@
 			</p>
 		</div>
 		</a>
-	<!-- TemplateEndEditable -->
+		<!-- TemplateEndEditable -->
 	</section>
 </body>
 </html>

@@ -33,6 +33,15 @@ header a:hover, .link:hover {
 	color: #9dfd1a;
 	text-decoration: underline;
 }
+h1 {
+	font-size: 2em;
+}
+h2 {
+	font-size: 1.5em;
+}
+em {
+	color: inherit;
+}
 .body img {
 	border-radius: 10px;
 	border: #2C2F33 solid 4px;
@@ -81,14 +90,8 @@ header a:hover, .link:hover {
 .colorKey img {
 	border-radius: 50%;
 }
-h1 {
-	font-size: 2em;
-}
-h2 {
-	font-size: 1.5em;
-}
-em {
-	color: inherit;
+.greyed {
+	color: hsla(0,0%,100%,0.25);
 }
 /*Dropdown stuff*/
 .dropdown * {

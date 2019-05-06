@@ -29,7 +29,7 @@
 		</a>
 		<!-- TemplateBeginEditable name="subCatagory" -->
 		<a href="../">
-			<h2 class="subCat">&gt; sub</h2>
+		<h2 class="subCat">&gt; sub</h2>
 		</a>
 		<!-- TemplateEndEditable -->
 		<div class="menu dropdown">
@@ -55,11 +55,17 @@
 	<section class="body text">
 		<!-- TemplateBeginEditable name="pageBody" -->
 		<h3 class="style">Heading 1</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni asperiores alias fugiat quos repellat accusamus quaerat sunt omnis est beatae a ab inventore quibusdam esse adipisci tenetur nesciunt, hic cupiditate consectetur accusantium dicta dolorem! Aperiam sint laborum tempore repellendus laboriosam perferendis ducimus aspernatur repellat commodi iusto, voluptatem, maxime vero nihil, officia cumque esse nesciunt minima temporibus cupiditate cum fuga. Dignissimos, tempora atque! Quisquam, natus quae deleniti ratione. Tempore vitae quia cum praesentium laborum, impedit amet eveniet. Quas pariatur, sed debitis sit adipisci nulla ab earum distinctio inventore facere! Officiis libero, blanditiis consectetur, a esse quod! Dolores eligendi eos, sapiente!</p>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni asperiores alias fugiat quos repellat accusamus quaerat sunt omnis est beatae a ab inventore quibusdam esse adipisci tenetur nesciunt, hic cupiditate consectetur accusantium dicta dolorem! Aperiam sint laborum tempore repellendus laboriosam perferendis ducimus aspernatur repellat commodi iusto, voluptatem, maxime vero nihil, officia cumque esse nesciunt minima temporibus cupiditate cum fuga. Dignissimos, tempora atque! Quisquam, natus quae deleniti ratione. Tempore vitae quia cum praesentium laborum, impedit amet eveniet. Quas pariatur, sed debitis sit adipisci nulla ab earum distinctio inventore facere! Officiis libero, blanditiis consectetur, a esse quod! Dolores eligendi eos, sapiente!
+		</p>
 		<h3 class="style">Heading 2</h3>
-		<p>Quae pariatur, iure velit natus rerum quo exercitationem perspiciatis delectus autem at deleniti illum molestias maiores corporis fugiat omnis in nostrum laborum incidunt aspernatur nesciunt! Totam libero ducimus doloremque cum maxime inventore a? Accusantium et eaque voluptatum voluptatibus quis quo nisi facilis corporis veniam, repellat deserunt, nemo debitis nihil accusamus magni est consectetur explicabo nostrum. Vel nisi totam laudantium veritatis iure nesciunt! Error id itaque provident ullam, fugit. Nemo recusandae aperiam tempora vitae doloribus necessitatibus itaque provident in repellat saepe, minus consequatur laborum harum cupiditate optio quidem quisquam accusamus facere, quod accusantium eos dolor. Tenetur voluptatem, error ratione omnis laudantium.</p>
+		<p>
+			Quae pariatur, iure velit natus rerum quo exercitationem perspiciatis delectus autem at deleniti illum molestias maiores corporis fugiat omnis in nostrum laborum incidunt aspernatur nesciunt! Totam libero ducimus doloremque cum maxime inventore a? Accusantium et eaque voluptatum voluptatibus quis quo nisi facilis corporis veniam, repellat deserunt, nemo debitis nihil accusamus magni est consectetur explicabo nostrum. Vel nisi totam laudantium veritatis iure nesciunt! Error id itaque provident ullam, fugit. Nemo recusandae aperiam tempora vitae doloribus necessitatibus itaque provident in repellat saepe, minus consequatur laborum harum cupiditate optio quidem quisquam accusamus facere, quod accusantium eos dolor. Tenetur voluptatem, error ratione omnis laudantium.
+		</p>
 		<h3 class="style">Heading 3</h3>
-		<p>Laboriosam reiciendis provident cupiditate amet, voluptatum error dolore cum dolorem accusamus laborum! Reiciendis consectetur eum, sequi consequuntur soluta laudantium, atque culpa doloremque vero, illum voluptatum quasi. Voluptatibus ad, sint doloribus neque. Architecto quisquam ea tenetur officia in? Quas soluta delectus alias adipisci ea. At nihil facilis quibusdam, distinctio, dolorum debitis quisquam alias corrupti necessitatibus, ex rem illo eveniet vel. Alias cupiditate et, distinctio eius officia ipsum recusandae unde molestiae expedita, repudiandae, maiores quaerat harum. A dolor voluptates quae officiis saepe minus obcaecati nobis illo quis necessitatibus eveniet animi laboriosam expedita atque ratione sapiente ex sit iste ea cum, qui sint!</p>
+		<p>
+			Laboriosam reiciendis provident cupiditate amet, voluptatum error dolore cum dolorem accusamus laborum! Reiciendis consectetur eum, sequi consequuntur soluta laudantium, atque culpa doloremque vero, illum voluptatum quasi. Voluptatibus ad, sint doloribus neque. Architecto quisquam ea tenetur officia in? Quas soluta delectus alias adipisci ea. At nihil facilis quibusdam, distinctio, dolorum debitis quisquam alias corrupti necessitatibus, ex rem illo eveniet vel. Alias cupiditate et, distinctio eius officia ipsum recusandae unde molestiae expedita, repudiandae, maiores quaerat harum. A dolor voluptates quae officiis saepe minus obcaecati nobis illo quis necessitatibus eveniet animi laboriosam expedita atque ratione sapiente ex sit iste ea cum, qui sint!
+		</p>
 		<!-- TemplateEndEditable -->
 	</section>
 	<footer>
