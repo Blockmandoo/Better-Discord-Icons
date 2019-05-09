@@ -42,6 +42,12 @@ nav {
 .scheme p {
 	font-size: .75em;
 }
+.alphaNav {
+	font-size: 1.7em;
+}
+.alphaNav > .disabled {
+	display: none;
+}
 .colorKey {
 	display: none;
 }

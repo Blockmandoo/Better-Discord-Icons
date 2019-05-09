@@ -23,13 +23,13 @@ ul > li {
 	list-style: none;
 }
 a, header a, .scheme {
-	color: transparent;
+	text-decoration: none;
 }
-header a, .link {
+header a, .link, .alphaNav > a {
 	color: #55c91c;
 	text-decoration: none;
 }
-header a:hover, .link:hover {
+header a:hover, .link:hover, .alphaNav > a:hover {
 	color: #9dfd1a;
 	text-decoration: underline;
 }
@@ -77,11 +77,9 @@ em {
 	border-radius: 50%;
 	border: #23272A solid 4px;
 }
-.alphaNav > a {
-	color: white;
-}
 .alphaNav {
 	cursor: default;
+	font-size: 1.3em;
 }
 .disabled {
 	opacity: .3;
@@ -93,12 +91,6 @@ em {
 .greyed {
 	color: hsla(0,0%,100%,0.25);
 }
-/*Anchor troubleshooting*/
-/*
-.anchor {
-	box-shadow: 0px 0px 0px 9px green;
-}
-*/
 /*Dropdown stuff*/
 .dropdown * {
 	transition: .3s;
