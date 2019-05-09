@@ -40,7 +40,11 @@ footer {
 img {
 	display: inline
 }
-.home, .subCat {
+.home {
+	float: left;
+	margin-left: 14px;
+}
+.subCat {
 	float: left;
 	margin-left: 8px;
 }
