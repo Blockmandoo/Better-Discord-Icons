@@ -28,8 +28,8 @@
 		<h2 class="home">Home</h2>
 		</a>
 		<!-- TemplateBeginEditable name="subCatagory" -->
-		<a href="../other.html">
-		<h2 class="subCat">&gt; Other</h2>
+		<a href="../">
+		<h2 class="subCat">&gt; sub</h2>
 		</a>
 		<!-- TemplateEndEditable -->
 		<div class="menu dropdown">
@@ -287,7 +287,7 @@
 		<!-- TemplateEndEditable -->
 	</section>
 	<footer class="mobile">
-		<a>^Return to top^</a>
+		<a href="#">^Return to top^</a>
 	</footer>
 	<footer class="desktop">
 		<p>

@@ -8,6 +8,9 @@ nav {
 .desktop {
 	display: none;
 }
+.text {
+	width: 95%;
+}
 .style img {
 	width: 26vw;
 	height: 26vw;
@@ -29,9 +32,6 @@ nav {
 	min-height: 136px;
 	clear: left;
 }
-.scheme * {
-	display: block;
-}
 .scheme em {
 	display: inline;
 }
@@ -51,18 +51,18 @@ nav {
 .colorKey {
 	display: none;
 }
+.anchor {
+	transform: translateY(-60px);
+	position: absolute;
+}
 .dropdown-content {
-	top: 2.25em;
+	top: 2.24em;
 	left: 0;
 	right: 0;
 	border-bottom-left-radius: 0px;
 }
 .dropdown-content a:last-child {
 	border-bottom-left-radius: 0px;
-}
-.anchor {
-	transform: translateY(-60px);
-	position: absolute;
 }
 
 @media (max-width: 475px) {

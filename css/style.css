@@ -29,7 +29,7 @@ header a, .link, .alphaNav > a {
 	color: #55c91c;
 	text-decoration: none;
 }
-header a:hover, .link:hover, .alphaNav > a:hover {
+header a:hover, .link:hover, .alphaNav > a:not(.disabled):hover {
 	color: #9dfd1a;
 	text-decoration: underline;
 }
