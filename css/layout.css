@@ -13,6 +13,9 @@ header section {
 	max-width: 550px;
 }
 */
+header section.greyed {
+	margin-top: 1em;
+}
 header + h2 {
 	margin-bottom: 16px;
 }
