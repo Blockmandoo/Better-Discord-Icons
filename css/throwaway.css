@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1 {
+  background:-webkit-linear-gradient(-45deg, hsla(166,100%,80%,1.00) 33%, cyan, hsla(208,100%,22%,1.00) 66%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h3 {
+  background:-webkit-linear-gradient(45deg, hsla(56,100%,87%,1.00) 40%, orange, hsla(28,100%,23%,1.00) 55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
