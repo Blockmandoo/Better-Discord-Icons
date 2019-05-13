@@ -57,7 +57,7 @@ em {
 	background-color: #202226;
 	color: hsla(0,0%,100%,0.25);
 	background-image: url("../assets/Loading.gif");
-	transition: .4s;
+	transition: .4s, border .6s;
 	width: 128px;
 	height: 128px;
 }
@@ -67,12 +67,8 @@ em {
 .scheme p {
 	color: hsla(0,0%,100%,0.5);
 }
-.body a:hover img {
+.body a:hover > img, .scheme:hover > img {
 	border: #7289DA solid 4px;
-}
-.scheme:hover {
-	background-color: #515A61;
-	filter: drop-shadow(4px 4px 4px hsla(0,0%,0%,0.5));
 }
 .style:not(:first-child) {
 	border-top: solid 2px #515A61;
@@ -80,7 +76,11 @@ em {
 .scheme {
 	background-color: #23272A;
 	border-radius: 10px;
-	transition: .6s;
+	transition: .2s, background-color .6s, filter .6s;
+}
+.scheme:hover {
+	background-color: #515A61;
+	filter: drop-shadow(4px 4px 4px hsla(0,0%,0%,0.5));
 }
 .scheme img {
 	border-radius: 50%;
