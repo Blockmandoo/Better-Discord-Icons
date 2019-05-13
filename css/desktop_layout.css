@@ -7,7 +7,7 @@ header {
 .mobile {
 	display: none;
 }
-.body {
+.body:not(.text) {
 	display: flex;
 	flex-wrap: wrap;
 	margin: auto;
