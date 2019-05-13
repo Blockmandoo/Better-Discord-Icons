@@ -10,7 +10,7 @@ body {
 nav {
 	background-color: #202225;
 }
-nav .home:hover, nav .menu:hover img {
+nav .home:hover {
 	transition: .4s;
 	color: hsla(54,100%,80%,1.00);
 	filter: drop-shadow(0px 0px 5px hsla(0,0%,100%,0.50));
@@ -105,9 +105,6 @@ em {
 	transition: .3s;
 }
 .dropdown-content {
-	opacity: 0;
-	background-color: #2C2F33;
-	border-bottom-left-radius: 5px;
 	font-size: 1.35em;
 }
 .dropdown-content a {
@@ -115,8 +112,8 @@ em {
 	background-color: hsla(216,7%,14%,0.90);
 	text-decoration: none;
 }
-.dropdown-content a:last-child {
-	border-bottom-left-radius: 5px;
+.dropdown-content a {
+	border-radius: 5px;
 }
 .dropdown-content a:hover {
 	background-color: #7289DA;

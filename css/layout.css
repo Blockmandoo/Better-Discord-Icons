@@ -51,9 +51,6 @@ img {
 	float: left;
 	margin-left: 8px;
 }
-.menu {
-	float: right;
-}
 .smalltablet {
 	display: none;
 }
@@ -74,31 +71,4 @@ img {
 }
 .anchor {
 	margin: 0;
-}
-/*Dropdown stuff*/
-.dropdown {
-	float: right;
-}
-.dropdown .dropbtn {
-	margin: 0;
-}
-.dropdown-content {
-	display: none;
-	position: absolute;
-	right: 0;
-	z-index: 1;
-	min-width: 80px;
-}
-.dropdown-content a {
-	float: none;
-	display: block;
-	text-align: center;
-	padding: 2px 16px;
-}
-.dropdown-content a:not(:last-child) {
-	margin-bottom: 2px;
-}
-.dropdown:hover .dropdown-content {
-	opacity: 1;
-	display: block;
 }
