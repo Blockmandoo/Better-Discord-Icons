@@ -78,7 +78,7 @@
 }
 .dropdown-content :not(.navlink) {
 	display: inline;
-	float: right;
+	float: left;
 }
 .navimg {
 	width: 40px;
