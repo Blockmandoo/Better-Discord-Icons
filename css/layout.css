@@ -8,11 +8,6 @@ header {
 header h1 {
 	text-align: center;
 }
-/*
-header section {
-	max-width: 550px;
-}
-*/
 header section.greyed {
 	margin-top: 1em;
 }
@@ -65,6 +60,9 @@ img {
 }
 .text p {
 	display: block;
+}
+.paragraph {
+	text-align: justify
 }
 .body a {
 	margin: auto;

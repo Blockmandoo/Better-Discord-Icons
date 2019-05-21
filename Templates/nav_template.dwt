@@ -82,32 +82,32 @@
 	<!-- TemplateBeginEditable name="alphabetNav" -->
 	<p class="alphaNav">
 		&lt;
-		<a href="#A">A</a>
-		<a href="#B">B</a>
-		<a href="#C">C</a>
-		<a href="#D">D</a>
-		<a href="#E">E</a>
-		<a href="#F">F</a>
-		<a href="#G">G</a>
-		<a href="#H">H</a>
-		<a href="#I">I</a>
-		<a href="#J">J</a>
-		<a href="#K">K</a>
-		<a href="#L">L</a>
-		<a href="#M">M</a>
-		<a href="#N">N</a>
-		<a href="#O">O</a>
-		<a href="#P">P</a>
-		<a href="#Q">Q</a>
-		<a href="#R">R</a>
-		<a href="#S">S</a>
-		<a href="#T">T</a>
-		<a href="#U">U</a>
-		<a href="#V">V</a>
-		<a href="#W">W</a>
-		<a href="#X">X</a>
-		<a href="#Y">Y</a>
-		<a href="#Z">Z</a>
+		<a href="#A" class="disabled">A</a>
+		<a href="#B" class="disabled">B</a>
+		<a href="#C" class="disabled">C</a>
+		<a href="#D" class="disabled">D</a>
+		<a href="#E" class="disabled">E</a>
+		<a href="#F" class="disabled">F</a>
+		<a href="#G" class="disabled">G</a>
+		<a href="#H" class="disabled">H</a>
+		<a href="#I" class="disabled">I</a>
+		<a href="#J" class="disabled">J</a>
+		<a href="#K" class="disabled">K</a>
+		<a href="#L" class="disabled">L</a>
+		<a href="#M" class="disabled">M</a>
+		<a href="#N" class="disabled">N</a>
+		<a href="#O" class="disabled">O</a>
+		<a href="#P" class="disabled">P</a>
+		<a href="#Q" class="disabled">Q</a>
+		<a href="#R" class="disabled">R</a>
+		<a href="#S" class="disabled">S</a>
+		<a href="#T" class="disabled">T</a>
+		<a href="#U" class="disabled">U</a>
+		<a href="#V" class="disabled">V</a>
+		<a href="#W" class="disabled">W</a>
+		<a href="#X" class="disabled">X</a>
+		<a href="#Y" class="disabled">Y</a>
+		<a href="#Z" class="disabled">Z</a>
 		&gt;
 	</p>
 	<!-- TemplateEndEditable -->
