@@ -29,8 +29,8 @@
 		<h2 class="home">Home</h2>
 		</a>
 		<!-- TemplateBeginEditable name="subCatagory" -->
-		<a href="../abstract.html">
-		<h2 class="subCat">&gt; Abstract</h2>
+		<a href="../">
+		<h2 class="subCat">&gt; sub</h2>
 		</a>
 		<!-- TemplateEndEditable -->
 		<div class="menu dropdown">

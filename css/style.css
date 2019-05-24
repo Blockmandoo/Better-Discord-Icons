@@ -90,6 +90,7 @@ em, strong {
 	cursor: default;
 	font-size: 1.3em;
 }
+/*Special Cases*/
 .disabled {
 	opacity: .3;
 	cursor: url("../assets/nullCursor.png"), no-drop;
@@ -117,11 +118,11 @@ em, strong {
 }
 .dropdown-content a:hover {
 	background-color: #7289DA;
-	background: linear-gradient(rgb(49,0,128), rgb(174,33,225));
+	background: linear-gradient(rgb(0,140,30), rgb(160,255,26));
 }
 .dropdown-content a:active {
 	background-color: #7289DA;
-	background: linear-gradient(rgb(106,0,122), rgb(255,87,221));
+	background: linear-gradient(#00F08C, #007137);
 }
 /*Scroll Bar*/
 :root {
