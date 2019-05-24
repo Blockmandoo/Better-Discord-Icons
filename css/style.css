@@ -117,6 +117,11 @@ em, strong {
 }
 .dropdown-content a:hover {
 	background-color: #7289DA;
+	background: linear-gradient(rgb(49,0,128), rgb(174,33,225));
+}
+.dropdown-content a:active {
+	background-color: #7289DA;
+	background: linear-gradient(rgb(106,0,122), rgb(255,87,221));
 }
 /*Scroll Bar*/
 :root {
