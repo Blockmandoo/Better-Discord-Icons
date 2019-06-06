@@ -3,9 +3,18 @@
 .menu {
 	float: right;
 }
+/*
 
+*-572
+*-680
+572-680
+680-1140
+1047-1140
+1140-*
+
+*/
 /*Mobile-ish*/
-@media (max-width:680px) {
+@media (max-width:1076px) {
 .dropdown {
 	float: right;
 }
@@ -57,7 +66,7 @@
 }
 }
 
-@media (min-width:572.1px) and (max-width:680px) {
+@media (min-width:572.1px) and (max-width:1076px) {
 .menu {
 	width: 30px;
 	height: 30px;
@@ -67,7 +76,7 @@
 }
 
 /*Tablet-ish*/
-@media (min-width: 680.1px) and (max-width:1140px) {
+@media (min-width: 1076.1px) and (max-width:1670px) {
 .menu > img, .navlink {
 	display: none;
 }
@@ -86,14 +95,14 @@
 }
 
 /*Tablet*/
-@media (min-width: 1047.1px) and (max-width:1140px) {
+@media (min-width: 1047.1px) and (max-width:1670px) {
 .menu {
 	padding: 20px
 }
 }
 
 /*Desktop*/
-@media (min-width:1140.1px) {
+@media (min-width:1670.1px) {
 .menu {
 	padding: 1.1em;
 	padding-left: 0em;
