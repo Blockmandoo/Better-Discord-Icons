@@ -5,7 +5,7 @@
 /*----------------*/
 /*3 Wide*/
 @media (min-width: 432.1px) and (max-width: 587px) {
-.body > p > a:last-child {
+.body:not(.text) > p > a:last-child {
 	display: none;
 }
 }
