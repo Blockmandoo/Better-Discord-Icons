@@ -103,7 +103,6 @@
 				<a href="../games.html" class="navlink">Games</a>
 			</div>
 		</div>
-		<h3 class="signifier"></h3>
 	</nav>
 	<header>
 		<h1>Better Profile Pictures</h1>
@@ -125,7 +124,7 @@
 				<img src="../assets/Mini-Ruby.png" alt="Red">: An unimplemented page that goes no where but shows that we want it to be there eventually </li>
 		</ul>
 		<!-- TemplateBeginEditable name="pageFlavor" -->
-		<section class="greyed"></section>
+		<span class="greyed"></span>
 		<!-- TemplateEndEditable -->
 	</header>
 	<!-- TemplateBeginEditable name="pageTitle" -->
